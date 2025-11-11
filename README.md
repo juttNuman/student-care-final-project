@@ -12,7 +12,7 @@ Developed using **Angular**, **Node.js (Express)**, **MongoDB**, and **Stripe** 
 
 ## 👨‍💻 Developers
 - **Numan Ali (20021519-137)**  
-- **Abdurrahman (20021519-049)**  
+- **Abdul Rehman (20021519-049)**  
 
 **Department:** Computer Science  
 **Session:** 2020 – 2024  
